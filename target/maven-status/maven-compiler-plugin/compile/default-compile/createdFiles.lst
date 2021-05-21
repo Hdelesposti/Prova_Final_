@@ -1,0 +1,17 @@
+br\com\pss\provaf\pss_prova_final\presenter\AddMarcaPresenter$1.class
+br\com\pss\provaf\pss_prova_final\view\RemoverMarcaView$2.class
+br\com\pss\provaf\pss_prova_final\presenter\AddMarcaPresenter.class
+br\com\pss\provaf\pss_prova_final\observer\Observado.class
+br\com\pss\provaf\pss_prova_final\view\AddMarcaView.class
+br\com\pss\provaf\pss_prova_final\aplicacao\Aplicacao.class
+br\com\pss\provaf\pss_prova_final\chain\ProcessadoraTexto.class
+br\com\pss\provaf\pss_prova_final\presenter\RemoverMarcaPresenter$1.class
+br\com\pss\provaf\pss_prova_final\chain\ITratadorMarca.class
+br\com\pss\provaf\pss_prova_final\collections\MarcasCollection.class
+br\com\pss\provaf\pss_prova_final\observer\Observador.class
+br\com\pss\provaf\pss_prova_final\view\RemoverMarcaView$1.class
+br\com\pss\provaf\pss_prova_final\chain\RemovedorMarca.class
+br\com\pss\provaf\pss_prova_final\presenter\RemoverMarcaPresenter.class
+br\com\pss\provaf\pss_prova_final\view\RemoverMarcaView.class
+br\com\pss\provaf\pss_prova_final\view\RemoverMarcaView$3.class
+br\com\pss\provaf\pss_prova_final\utils\UtilitarioString.class
